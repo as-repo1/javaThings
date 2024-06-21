@@ -3,9 +3,9 @@
 /mnt/coding/oop via ☕ v17.0.11 took 6s 
 ❯ tree javaThings/
 
-📁 for directories
-🗃️ for compiled class files
-📄 for source files and other text-based files
+- 📁 for directories
+- 🗃️ for compiled class files
+- 📄 for source files and other text-based files
 
 
 # 📁 javaThings

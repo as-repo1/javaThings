@@ -1,6 +1,8 @@
 
 # Java Things
 
+# mainly oops
+
 This repository contains various Java examples and projects showcasing different concepts and techniques.
 
 ## Directory Structure
